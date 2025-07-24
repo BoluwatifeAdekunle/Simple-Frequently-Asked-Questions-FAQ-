@@ -22,8 +22,3 @@ Responsive across all screen sizes
 Lightweight with no frameworks
 
 
-❓ Frequently Asked Questions
-
-Q: How can I track my order?
- 
-Q: What is your return policy?
