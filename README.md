@@ -21,8 +21,6 @@ Responsive across all screen sizes
 
 Lightweight with no frameworks
 
-Perfect for portfolios or landing pages
-
 
 ❓ Frequently Asked Questions
 
