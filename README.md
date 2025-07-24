@@ -1,6 +1,4 @@
-🧭 Minimal Blog Card
-
-A sleek and responsive blog card UI designed with HTML and CSS. Built in VS Code, this component is ideal for showcasing blog posts, travel content, or even product previews with location-based themes.
+🧭 Simple Frequently Asked Questions (FAQ)
 
 🛠️ Built With
 
